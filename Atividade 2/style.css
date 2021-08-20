@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    padding: 20px;
+    position: fixed;
+}
+footer{
+    position: fixed;
+    bottom: 50px;
+    padding: 20px;
+}
+img{
+    width: 450px;
+}
+#pai{
+    display: inline-block;
+    width: 1000px;
+    position: absolute;
+    top: 100px;
+    padding-left: 100px;
+}
+#filho{
+    display: flex;
+    padding-top: 10px;
+    float: right;
+}
+p{
+    
+}
